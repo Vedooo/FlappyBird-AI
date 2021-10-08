@@ -2,7 +2,8 @@
 An AI that plays flappy bird! Using the NEAT python module.
 <h1>Libraries</h1>
 => numpy
-=> pygame
+=> matplotlib
 => neat-python
 => graphviz
-=> matplotlib
+=> pygame
+
