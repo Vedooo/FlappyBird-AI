@@ -5,5 +5,5 @@ numpy,
 matplotlib,
 neat-python,
 graphviz,
-pygame,
+pygame
 
